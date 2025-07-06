@@ -1,2 +1,2 @@
-# Scripts
-This repository is for various scripts I would write while building my skills and exploring automation, system tasks, and security tools. The scripts are organized by what they do and include comments to help me (and others) understand and improve them over time. It's a work-in-progress learning space.
+# ⚙️Scripts
+This repository is for various scripts I would write while building my skills and exploring automation, system tasks, and security tools. The scripts are organized by what they do and include comments to help me (and others) understand and improve them over time. It's a work-in-progress learning space. <br/>P.S.: I’m not a developer, so some scripts might not be the most efficient, but they work, and I’m improving as I go!
